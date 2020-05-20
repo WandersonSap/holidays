@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "ovly.holidays.holidays",
+        "description": "Holidays",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#holidays-Display",
+        "navigationComponentName": "ovly.holidays",
+        "intentSemanticObject": "holidays",
+        "intentAction": "Display",
+        "html5ApplicationName": "holidays",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "116945ed-f64a-421a-b9c8-2fec12095a5d"
+        ],
+        "contentPackages": [
+            "95705485-781c-4460-b4d1-eccf61f11420"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Feriados Mundiais ",
+        "subtitle": "Usando a API do calendarific",
+        "searchKeywords": "Feriados Mundiais ,Usando a API do calendarific",
+        "displayIconUrl": "sap-icon://travel-itinerary",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
